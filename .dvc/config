@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://blue_bikes_bucket
+    credentialpath = /Users/muskankhandelwal/Documents/MLOps_Demand_prediction/airflow_docker/keys/gcp_key.json

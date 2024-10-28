@@ -1,0 +1,5 @@
+outs:
+- md5: a4639bf50a58ce4af38cdc7960c86758
+  size: 1569862
+  hash: md5
+  path: 201501-hubway-tripdata_2.csv
